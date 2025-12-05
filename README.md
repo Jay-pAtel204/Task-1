@@ -1,4 +1,4 @@
-# Task 1: Data Cleaning and Preprocessing
+#  Data Cleaning and Preprocessing
 
 ## 📊 Project Overview
 This project demonstrates comprehensive data cleaning and preprocessing techniques applied to the Mall Customer Segmentation dataset from Kaggle. The goal is to transform raw, messy data into a clean, analysis-ready dataset.
